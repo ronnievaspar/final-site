@@ -221,7 +221,7 @@ body {
 }
 
 .show-bg{
-  background-image: url('/images/background12.jpg');
+  background-image: url('../images/background12.jpg');
   filter: blur(3px);
   -webkit-filter: blur(3px);
   
